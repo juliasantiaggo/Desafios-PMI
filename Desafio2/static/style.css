@@ -1,0 +1,30 @@
+div {
+    border: 2px solid blueviolet(24, 29, 22)
+}  
+
+h2 {
+    color: #8a2be2;
+    font-size:36xp;
+}
+
+p {
+    font-size:16px;
+    text-align:justify;
+}
+
+h4{
+    text-align: center;
+}
+
+body{
+    max-width: 59%;
+    margin: 45px auto 0;
+}
+
+header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+}
