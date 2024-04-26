@@ -7,4 +7,23 @@
 {% block content %}
 
 
+{% for i in range(0, (p|length), 2) %}
+<div class="esquerda" style="text-align: justify; padding: 5% 10% 5% 10%;">
+  <div style="padding: 2%;">
+    <h2>{{pratos[p[i]][1]}}</h2>
+    <p>{{pratos[p[i]][2]}}</p> 
+  </div>
+  <img src="/static/imagens/{{pratos[p[i]][0]}}" alt="panna cotta" width="304" height="236"> 
+</div>
+
+</div><div class="direita" style="text-align: justify; padding: 0% 10% 5% 10%;">
+<div style="padding: 2%;">
+<h2>{{pratos[p[i+1]][1]}}</h2>
+<p>{{pratos[p[i+1]][2]}}</p>
+</div>
+<img src="/static/imagens/{{pratos[p[i+1]][0]}}" class="float-end" width="304" height="236"> 
+</div>
+{% endfor %}
+
+
 {% endblock %}

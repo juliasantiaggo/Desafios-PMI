@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+import json
 
 app = Flask (__name__)
 
@@ -16,8 +17,10 @@ def contatos():
 
 @app.route("/cardapio")
 def cardapio():
-    return render_template('cardapio.html')
+    pratos=json.load(open("./templates/pratos.json",encoding="UTF-8"))
+    p=[]
+    for prato in pratos:
+        p.append(prato)
+    return render_template('cardapio.html',pratos=pratos,p=p)
 
-@app.route("/eventos")
-def eventos():
-    return render_template('eventos.html')
+

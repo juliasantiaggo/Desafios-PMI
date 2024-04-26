@@ -1,0 +1,65 @@
+{
+    "gelato":[
+        "gelato.jpg",
+        "gelato",
+        "oi"
+    ],
+    
+    "pannacotta":[
+        "pannacotta.jpg",
+        "Panna Cotta",
+        "texto"
+    ],
+    
+    "bomboloni":[
+        "bomboloni.jpg",
+        "Bomboloni",
+        "tchau"
+    ],
+
+    "bruttimabuoni":[
+        "bruttimabuoni.jpg",
+        "Bruttimabuoni",
+        "texto"
+    ],
+
+    "cannolli":[
+        "cannolli.jpg",
+        "Cannolli",
+        "texto"
+    ],
+
+    "pignoli":[
+        "pignoli.jpg",
+        "Pignoli",
+        "texto"
+    ],
+
+    "struffoli":[
+        "struffoli.jpg",
+        "Struffoli",
+        "texto"
+    ],
+
+    "torrone":[
+        "torrone.jpg",
+        "Torrone",
+        "texto"
+    ],
+
+    "zabaglione":[
+        "zabaglione.jpg",
+        "Zabaglione",
+        "texto"
+    ],
+    
+    "zeppole":[
+        "zeppole.jpg",
+        "Zeppole",
+        "texto"
+    ]
+
+
+
+
+}

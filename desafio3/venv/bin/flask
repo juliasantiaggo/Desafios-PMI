@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/user/Área de Trabalho/desafio3/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/user/Documentos/GitHub/Desafios-PMI/desafio3/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
