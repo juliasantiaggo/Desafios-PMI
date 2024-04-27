@@ -1,62 +1,72 @@
 {
     "gelato":[
-        "gelato.jpg",
-        "gelato",
-        "oi"
+        "gelato1.jpeg",
+        "Gelato",
+        "Ingredientes: leite fresco, creme de leite fresco, ovos e frutas.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
     
     "pannacotta":[
         "pannacotta.jpg",
         "Panna Cotta",
-        "Ingredientes: Gelatina, água, leite condensado, leite, creme de leite e baunilha"
+        "Ingredientes: Gelatina, água, leite condensado, leite, creme de leite e baunilha",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
     
     "bomboloni":[
         "bomboloni.jpg",
         "Bomboloni",
-        "Ingredientes: "
+        "Ingredientes: ",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
 
     "bruttimabuoni":[
         "bruttimabuoni.jpg",
         "Bruttimabuoni",
-        "texto"
+        "texto",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
 
     "cannolli":[
         "cannolli.jpg",
         "Cannolli",
-        "texto"
+        "Ingredientes:  farinha de trigo, açúcar, vinho branco, ovo, canela e sal.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
 
     "pignoli":[
         "pignoli.jpg",
         "Pignoli",
-        "texto"
+        "texto",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
 
     "struffoli":[
         "struffoli.jpg",
         "Struffoli",
-        "texto"
+        "texto",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
 
     "torrone":[
         "torrone.jpg",
         "Torrone",
-        "texto"
+        "texto",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
 
     "zabaglione":[
         "zabaglione.jpg",
         "Zabaglione",
-        "texto"
+        "texto",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ],
     
     "zeppole":[
         "zeppole.jpg",
         "Zeppole",
-        "texto"
+        "texto",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, corporis sit reprehenderit, assumenda necessitatibus illum autem tembus quisquam aliquam deserunt nesciunt fuga numquam sequi. Tenetur labore eligendi sed aperiam cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, dolor, impedit eius praesentium voluptates unde, error temporibus doloremque provident quam facilis exercitationem? Officiis earum ratione ab culpa, nemo fuga dignissimos."
     ]
 
 

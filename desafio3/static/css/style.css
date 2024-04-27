@@ -1,11 +1,21 @@
 .esquerda{
     display: flex;
     flex-direction: row-reverse;
-
+    margin: 5% 6% 5% 6%;
+    font-family: cursive ;
 }
+
 
 .direita{
     display: flex;
     flex-direction: row;
-    
+    margin: 5% 6% 5% 6%;
+    font-family: fantasy 
+}
+
+.slide{
+    width: 25%;
+    height: 25%;
+    margin: 5% 6% 5% 6%;
+    flex-direction: row;
 }
