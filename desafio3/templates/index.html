@@ -5,37 +5,41 @@
 {% block content %}
 
 <!-- Carousel -->
-<div id="demo" class="carousel slide" data-bs-ride="carousel" width="100" height="200">
+<div class="row">
+  <div id="demo" class="carousel slide col-sm-6" data-bs-ride="carousel" width="100" height="200">
 
-    <!-- Indicators/dots -->
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
-      <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
-      <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
-    </div>
-  
-    <!-- The slideshow/carousel -->
-    <div class="carousel-inner" >
-      <div class="carousel-item active">
-        <img src="{{url_for('static', filename='imagens/zeppole.jpg')}}" alt="Los Angeles" class="d-block w-100" >
+      <!-- Indicators/dots -->
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
       </div>
-      <div class="carousel-item">
-        <img src="{{url_for('static', filename='imagens/struffoli.jpg')}}" alt="Chicago" class="d-block w-100">
+    
+      <!-- The slideshow/carousel -->
+      <div class="carousel-inner" >
+        <div class="carousel-item active">
+          <img src="{{url_for('static', filename='imagens/zeppole.jpg')}}" alt="Los Angeles" class="d-block w-100" >
+        </div>
+        <div class="carousel-item">
+          <img src="{{url_for('static', filename='imagens/struffoli.jpg')}}" alt="Chicago" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+          <img src="{{url_for('static', filename='imagens/bruttimabuoni.jpg')}}" alt="New York" class="d-block w-100">
+        </div>
+        
       </div>
-      <div class="carousel-item">
-        <img src="{{url_for('static', filename='imagens/bruttimabuoni.jpg')}}" alt="New York" class="d-block w-100">
-      </div>
-      
-    </div>
-  
-    <!-- Left and right controls/icons -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon"></span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
-      <span class="carousel-control-next-icon"></span>
-    </button>
+    
+      <!-- Left and right controls/icons -->
+      <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </button>
+  </div>
+  <div class="textforslide col-sm-6" style="margin:auto">
+    <h1>teste titulo</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque sint perspiciatis ad deleniti corporis, quasi harum ducimus consequatur amet accusamus? Dolore ipsa fugiat quae sit, obcaecati consectetur a accusamus! Esse excepturi voluptatibus hic illo debitis rerum numquam nostrum adipisci aliquam repudiandae neque molestiae iure eius quod repellendus ratione nisi itaque, quo illum fugit obcaecati id. Minus voluptatem laudantium libero perferendis ipsa quas, saepe distinctio ratione sit. Repellat facere ea laborum quae quaerat tempora atque perferendis ratione reprehenderit tempore magnam commodi cupiditate hic, error omnis adipisci. Maiores similique quo voluptatibus nisi vel quia sapiente aliquam, enim hic, quos eos doloremque dolorem.</p>
+  </div>
 </div>
-
-
 {% endblock %}
