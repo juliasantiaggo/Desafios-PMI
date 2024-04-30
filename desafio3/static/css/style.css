@@ -30,5 +30,15 @@
 }
  
 .somos{
-    margin: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.contato{
+    display: flex;
+    justify-content: center;
+}
+
+.texto{
+    text-align: center;
 }

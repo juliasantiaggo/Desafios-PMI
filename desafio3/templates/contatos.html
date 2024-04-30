@@ -2,5 +2,23 @@
 
 {%block title%}{%endblock%}
 
-{%block content%}{%endblock%}
+{%block content%}
+
+<div class="texto">
+    <h2>Entre em contato</h2>
+    <p>Lorem ipsum dolor sit</p>    
+    <hr>
+</div> 
+<div class="contato">
+    <form action="/action_page.php">
+        <label for="email">Seu e-mail:</label><br>
+        <input type="text" id="fname" name="fname"><br><br>
+        <label for="assunto">Assunto:</label><br>
+        <input type="text" id="lname" name="lname"><br><br>
+        <label for="descricao">Descrição:</label><br>
+        <textarea name="" id="" cols="30" rows="10"></textarea><br>
+        <input type="submit" value="Submit">
+    </form>   
+</div>
+{%endblock%}
 
