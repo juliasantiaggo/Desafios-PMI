@@ -1,0 +1,29 @@
+{%extends 'base.html'%}
+
+{%block title%}{%endblock%}
+
+{%block content%}
+
+<div class="texto">
+    <h2>Entre em contato</h2>
+    <p></p>    
+</div> 
+<div class="container">
+    <div class="contato">
+        <form action="/contatos" method="POST">
+            <label for="nome">Seu nome:</label><br>
+            <input type="text" id="nome" name="nome" required><br><br>
+            <label for="celular">Celular:</label><br>
+            <input type="text" id="celular" name="celular" required><br><br>
+            <label for="email">Seu e-mail:</label><br>
+            <input type="text" id="email" name="email" required><br><br>
+            <label for="assunto">Assunto:</label><br>
+            <input type="text" id="assunto" name="assunto" required><br><br>
+            <label for="descricao">Descrição:</label><br>
+            <textarea name="descricao" id="descricao" cols="30" rows="10" required></textarea><br>
+            <button type="submit" value="Submit">Submeter</button>
+        </form>  
+    </div>
+</div>
+{%endblock%}
+
